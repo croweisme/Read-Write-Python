@@ -9,11 +9,11 @@ After running the program you should see new files named "Output.xlsx" and "Outp
 ### ModifyDataFrame-Pandas:
 This Jupyter Notebooks file contains my notes and experimentation with various functions included in the Pandas Library for Python.
 So far it demonstrates the capability to
-    - Rename Columns
-    - Modify the index value of Rows
-    - Insert new rows 
-    - Use the .append function to add new rows by creating a new DataFrame and adding it to the original
-    - Viewing the Data Types of Columns
-    - Demonstrate my affinity for various flavors of cookies
-    - Displaying the contents of individual Columns
-    - Displaying the contents of individual Rows
+- Rename Columns
+- Modify the index value of Rows
+- Insert new rows 
+- Use the .append function to add new rows by creating a new DataFrame and adding it to the original
+- Viewing the Data Types of Columns
+- Demonstrate my affinity for various flavors of cookies
+- Displaying the contents of individual Columns
+- Displaying the contents of individual Rows
